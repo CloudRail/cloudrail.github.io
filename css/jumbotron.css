@@ -12,10 +12,6 @@ body {
 	color: white !important;
 }
 
-.cr-main-logo {
-
-}
-
 .cr-iconsize {
 	font-size: 10em !important;
 	color: #6e6e6e;
@@ -28,4 +24,8 @@ body {
 footer {
 	color: grey !important;
 
+}
+
+.cr-text-grey {
+	color: #6e6e6e;
 }
